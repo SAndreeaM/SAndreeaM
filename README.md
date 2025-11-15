@@ -1,7 +1,9 @@
 <table align="center">
     <tr>
         <td align="center" valign="top" width="300">
-            <img src="https://i.imgur.com/7T1Yqjn.png" alt="Avatar" width="300">
+            <a href="https://picrew.me/en/image_maker/112842" target="_blank">
+                <img src="https://i.imgur.com/7T1Yqjn.png" alt="Avatar" width="300">
+            </a>
             <p align="center" style="margin-top: 10px;">
                 <a href="https://www.linkedin.com/in/andreea-maria-sandulache-312927207/" target="_blank" style="margin: 0 5px;">
                     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" height="32" alt="LinkedIn" title="LinkedIn">
