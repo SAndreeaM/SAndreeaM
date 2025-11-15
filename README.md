@@ -2,7 +2,24 @@
     <tr>
         <td align="center" valign="top" width="300">
             <img src="https://i.imgur.com/7T1Yqjn.png" alt="Avatar" width="300">
-        </td>
+            <p align="center" style="margin-top: 10px;">
+                <a href="https://www.linkedin.com/in/andreea-maria-sandulache-312927207/" target="_blank" style="margin: 0 5px;">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg" height="32" alt="LinkedIn" title="LinkedIn">
+                </a>
+                <a href="https://www.twitch.tv/blackcatjoystickstudios" target="_blank" style="margin: 0 5px;">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitch.svg" height="32" alt="Twitch" title="Twitch">
+                </a>
+                <a href="https://www.youtube.com/@BlackCatJoystickStudios" target="_blank" style="margin: 0 5px;">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/youtube.svg" height="32" alt="YouTube" title="YouTube">
+                </a>
+                <a href="https://www.tiktok.com/@blackcatjoystick?lang=en" target="_blank" style="margin: 0 5px;">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/tiktok.svg" height="32" alt="TikTok" title="TikTok">
+                </a>
+                <a href="https://x.com/BCJ_dev" target="_blank" style="margin: 0 5px;">
+                    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter.svg" height="32" alt="X (Twitter)" title="X (Twitter)">
+                </a>
+            </p>
+            </td>
         <td align="center" valign="top">
             <h3>【ᴘʟᴀʏᴇʀ ɴᴀᴍᴇ】: Andreea "PuffyBean" Săndulache</h3>
             <p align="center">
@@ -13,7 +30,7 @@
             </p>
             <p>
                 <b>【ᴅᴇsᴄʀɪᴘᴛɪᴏɴ】:</b><br>
-                Hi! I'm Andreea, an aspiring game and front-end web developer who's passionate about creating engaging digital experiences! °˖✧◝(⁰▿⁰)◜✧˖°
+                Hi! I'm Andreea, an aspiring game and front-end web developer from Romania who's passionate about creating engaging digital experiences! °˖✧◝(⁰▿⁰)◜✧˖°
             </p>
             <blockquote>
                 ❝Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world❞ — Harriet Tubman
@@ -58,14 +75,6 @@
 <p align="center">
     <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/22.gif" />
 </p>
-
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAndreeaM/SAndreeaM/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAndreeaM/SAndreeaM/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SAndreeaM/SAndreeaM/output/pacman-contribution-graph.svg">
-    </picture>
-</div>
 
 <table align="center">
     <tr>
