@@ -68,7 +68,7 @@
 
 | 【✨ sᴋɪʟʟs】 | 【👜 ɪɴᴠᴇɴᴛᴏʀʏ】 |
 | :---: | :---: |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,git,godot,gamemakerstudio" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai,ae,pr" /></a></p> |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,godot,gamemakerstudio" /></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai,ae,pr" /></a></p> |
 
 </div>
 
